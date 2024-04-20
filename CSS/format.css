@@ -1,0 +1,16 @@
+
+:root{
+    /* FONTS */
+    --font-primaria: "Raleway", sans-serif;
+
+    /* CORES */
+    --cor-texto-primaria:   #464646;
+    --cor-texto-secundaria: #000000;
+    --cor-texto-terciaria:  #FFFFFF;
+
+    /* COR DE FUNDO E LINKS */
+    --cor-de-fundo:         #F5F5F5;
+    --cor-dos-card:         #FFFFFF;
+    --cor-dos-botoes:       #2A7AE4;
+    --cor-de-contato:       #EAF2FD;
+}
